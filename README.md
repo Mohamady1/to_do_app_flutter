@@ -1,16 +1,22 @@
-# to_do_app
 
-A new Flutter project.
+# To Do App
 
-## Getting Started
+A simple to-do app built with Flutter using SQFLite for local database storage and Provider for state management.
 
-This project is a starting point for a Flutter application.
+# Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+# Prerequisites
+Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Android Studio or Visual Studio Code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Built With
+- Flutter
+- SQFLite
+- Provider
+
+## Authors
+
+- Omar Ahmed Mohamady
+
